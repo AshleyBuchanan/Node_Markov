@@ -1,11 +1,9 @@
 /** Textual markov chain generator */
 const fs = require('fs');
 const axios = require('axios');
-//const open = (...args) => import('open').then(mod => mod.default(...args));         // the open package is ESM-only... I could've just converted to ESM but I'd already struggled to find this.:D
-
 class MarkovMachine {
 
-    constructor(text) {
+    constructor(text, numWords) {
         // normalize whitespace and strip most punctuation that breaks the chain.
         let cleaned = text
             .replace(/[()"“”]/g, "")        // remove parentheses and quotes
@@ -19,6 +17,7 @@ class MarkovMachine {
         let words = cleaned.split(" ");        
         this.words = words.filter(w => w !== "");
 
+        this.numWords = numWords;
         this.makeChains();
     };
 
@@ -26,8 +25,8 @@ class MarkovMachine {
         this.chains = new Map();
 
         for (let i = 0; i < this.words.length; i++) {
-            let word = this.words[i];
-            let nextWord = this.words[i+1] || null;
+            let word = `${this.words[i]} ${this.words[i+1]} ${this.words[i+2]}`;
+            let nextWord = this.words[i+3] || null;
 
             if (!this.chains.has(word)) {
                 this.chains.set(word, []);
@@ -38,10 +37,10 @@ class MarkovMachine {
 
         //console.log(this.chains)
 
-        this.makeText();
+        this.makeText(this.numWords);
     };
 
-    makeText(numWords = 10) {
+    makeText(numWords) {
         const keys = Array.from(this.chains.keys());
         let word = keys[Math.floor(Math.random() * keys.length)];
         let output = [];
@@ -55,9 +54,12 @@ class MarkovMachine {
                     break;
 
                 default:
-                    output.push(word);
+                    let w = word.split(" ");
+                    output.push(w[0]);
+                    //output.push(w[1]);
+                    //console.log(output)
                     let nextWords = this.chains.get(word);
-                    word = nextWords[Math.floor(Math.random() * nextWords.length)];
+                    word = `${word.split(" ")[1]} ${word.split(" ")[2]} ${nextWords[Math.max(Math.floor(Math.random() * nextWords.length))]}`;
             };
         };
 
@@ -69,6 +71,7 @@ class MarkovMachine {
         };
 
         console.log(phrasing);
+        process.exit(0);
     };
 };
 
@@ -103,6 +106,7 @@ async function webCat(arg) {
 };
 
 async function main() {
+    let numberOfWords = 10;
     const args = process.argv.slice(2);
     console.log(args, args.length);
 
@@ -112,6 +116,11 @@ async function main() {
         console.log('\nExample Usage:');
         console.log(' node markov.js <[word count number]> <source_file> <"source file"> <etc>\n\n');
         process.exit(1);
+    };
+
+    //check to see if the first arg is a number
+    if (Number(args[0]) != 0) {
+        numberOfWords = args.shift();
     };
 
     //retrieve text from file(s)
@@ -125,7 +134,7 @@ async function main() {
         })
     );
 
-    let mm = new MarkovMachine(rawText.join(" "));
+    let mm = new MarkovMachine(rawText.join(" "), numberOfWords);
 };
 
 main();
