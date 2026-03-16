@@ -110,7 +110,7 @@ async function main() {
     if (args.length === 0) {
         console.error('Please provide a file path or web address.');
         console.log('\nExample Usage:');
-        console.log(' node markov.js <source_file> <"source file"> <etc>\n\n');
+        console.log(' node markov.js <[word count number]> <source_file> <"source file"> <etc>\n\n');
         process.exit(1);
     };
 
