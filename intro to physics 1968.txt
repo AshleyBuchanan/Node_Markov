@@ -1,0 +1,4437 @@
+
+An Introduction to Physics 
+
+
+
+
+
+Project Physics Handbook 
+
+
+Models of the Atom 
+
+
+
+
+
+
+
+
+
+
+
+Carbon 
+
+
+Lime 
+
+
+
+
+
+
+This handbook is the authorized interim version of one of 
+the many instructional materials being developed by 
+Harvard Project Physics, including text units, laboratory 
+experiments, and teacher guides. Its development has 
+profited from the help of many of the colleagues listed 
+at the front of the text units. 
+
+
+Copyright © 1968, Project Physics Incorporated, 
+
+
+Copyright is claimed until June 1, 1969. After June 1, 
+1969, all portions of this work not identified herein as 
+the subject of previous copyright shall be in the public 
+domain. The authorized interim version of the Harvard 
+Project Physics course is being distributed at cost by 
+Holt, Rinehart and Winston, Inc. by arrangement with 
+Project Physics Incorporated, a non-profit educational 
+organization. 
+
+
+All persons making use of any part of these materials are 
+requested to acknowledge the source and the financial 
+support given to Project Physics by the agencies named 
+below, and to include a statement that the publication 
+of such material is not necessarily endorsed by Harvard 
+Project Physics or any of the authors of this work. 
+
+
+The work of Harvard Project Physics has been financially 
+supported by the Carnegie Corporation of New York, the 
+Ford Foundation, the National Science Foundation, the 
+Alfred P. Sloan Foundation, the United States Office of 
+Education and Harvard University. 
+
+
+Consult the Project Physics text for a partial list of the 
+current and recent staff, consultants and advisory com- 
+mittee. 
+
+
+03-—073540-8 
+
+
+90123 69 9876543 
+
+
+Gx wpnis 
+UNITASITATIS 
+HARERTAEASIS 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Project Physics Handbook 
+
+
+An Introduction to Physics b Models of the Atom 
+
+
+\ 
+eo 
+
+
+( 
+
+
+@© 
+
+
+a 
+
+
+™~ 
+— 
+
+
+
+
+
+Authorized Interim Version # 1968-69 
+
+
+Distributed by Holt, Rinehart and Winston, Inc. NewYork Toronto 
+
+
+
+
+
+
+
+
+
+
+
+This Student Handbook is different 
+from laboratory manuals you may have 
+
+
+worked with before. There are far more 
+
+
+
+
+
+things described in this handbook than 
+any one student can possibly do. Only 
+
+a few of the experiments and activities 
+will be assigned. You are encouraged to 
+pick and choose from the rest any of the 
+activities that appear interesting and 
+valuable for you. A number of activities 
+may occur to you that are not described 
+in the handbook and that you would prefer 
+to do instead. You should feel free to 
+pursue these in consultation with your 
+
+
+teacher. 
+
+
+There is a section corresponding to 
+each chapter of the text. Most sections 
+are composed of two major subsections— 
+
+
+Experiments and Activities. 
+
+
+The Experiments section contains com- 
+plete instructions for the experiments 
+your class will be doing in the school 
+laboratory. The Activities section con- 
+tains suggestions for demonstrations, con- 
+
+
+struction projects and other activities 
+
+
+
+
+
+you can do by yourself. (The division 
+between Experiments and Activities is not 
+hard and fast; what is done in the school 
+laboratory and what is done by the student 
+on his own may vary from school to school.) 
+
+
+The Film Loop Notes give instructions 
+for the use of the film loops which have 
+been prepared for this course. 
+
+
+
+
+
+
+
+
+Chapter 17 The Chemical Basis of Atomic Theory 
+
+
+EXPERIMENT 41 Electrolysis 
+
+
+Volta and Davy discovered that electric 
+currents can create chemical changes never 
+observed before. They were the first to 
+use electricity to break down stable com- 
+pounds and to isolate new chemical ele- 
+
+
+ments. 
+But that was not all. 
+
+
+Later Faraday and other experimenters 
+compared the amount of electric charge 
+used and the amount of chemical products 
+formed. Their measurements fell into a 
+regular pattern that hinted at some un- 
+derlying link between electricity and 
+
+
+matter. 
+
+
+In this experiment you will use an 
+electric current to decompose a compound, 
+comparing the charge used with the mass 
+of one of the products. From these re- 
+sults you can compute the mass and volume 
+
+
+of an atom of the product. 
+
+
+Background 
+
+A beaker of copper sulfate (CuSO,) 
+solution in water is supported under one 
+arm of a balance (Fig. 1). One copper 
+electrode, the cathode, is supported in 
+the solution by the balance arm so that 
+you can measure its mass without removing 
+it from the solution. A second copper 
+electrode, the anode, fits against the 
+
+
+inside wall of the beaker. 
+
+
+
+
+
+Experiments 
+
+
+Electric current is provided by a 
+power supply that converts PpLO<volpsaliter- 
+nating current into low voltage direct 
+current. The current is controlled by a 
+variable transformer (or a rheostat) and 
+measured by an ammeter in series with 
+
+
+the electrolytic cell as shown in Fig. l 
+
+
+
+
+
+OFA ica ote » 
+— 
+. / 
+/} 
+wih 
+eke 
+ete Ns 
+t % =, % 
+\ Ni a 
+s | 
+Fig. 2 
+
+
+As long as there is current in the 
+cell you can observe the increasing mass 
+of the cathode as copper forms on it. 
+With the help of a watch to measure the 
+
+
+time the current flows, you can compute 
+
+
+
+
+
+
+
+
+
+
+
+Experiments 
+
+
+the electric charge, q = I x t, that 
+passed through the cell. 
+
+
+If you know the amount of charge 
+carried by a single electron (1.6 x 10719 
+coulombs), you can calculate the number 
+of electrons transferred. From number of 
+of electrons transferred, the total mass 
+of copper deposited, and the number of 
+electrons required to release one copper 
+atom from solution, you can calculate 
+
+
+the mass of a single copper atom. 
+
+
+Procedure 
+
+Either an "equal-arm" or a "triple- 
+beam" balance can be used for this ex- 
+periment. Arrange the cell and the 
+balance as shown in the appropriate 
+figure. The cathode cylinder must be 
+supported far enough above the bottom 
+of the beaker so that the balance arm 
+can move up and down freely when the 
+cell is full of the copper-sulfate solu- 
+
+
+tion. 
+
+
+Next connect the circuit as illus- 
+trated in the figure. Note that the 
+electrical connection from the negative 
+terminal of the power supply to the 
+cathode is made through the balance beam. 
+The knife edge and its seat must be by- 
+passed by a short piece of thin flexible 
+wire, as shown in Fig. 1 or Fig. 3. The 
+
+
+
+
+
+Rigs as 
+
+
+positive terminal of the power supply is 
+connected directly to the anode in any e 
+| 
+
+
+
+
+
+convenient manner. 
+
+
+Before any measurements are made, 
+operate the cell long enough (10 or 15 
+minutes) to form a preliminary deposit 
+on the cathode—unless this has already 
+been done. In any case, run the current 
+long enough to set it at the value recom- 
+mended by your instructor, probably about 
+
+
+5 amperes. 
+
+
+When all is ready, adjust the balance 
+and record the reading. Pass the current 
+for the length of time recommended by 
+your instructor. Measure and record the 
+current, I, and the time during which 
+the current passes, t. Check the ammeter 
+occasionally and, if necessary, keep the 
+current set to its original value by ad- 
+justing the rheostat or variable trans- 
+
+
+former. 
+
+
+At the end of the run, reset the bal- 
+
+
+ance and record the new reading. Find 
+
+
+
+
+
+by subtraction the increase in mass of 
+
+
+the cathode. Also record the current I. 
+
+
+Since the cathode is buoyed up by a 
+liquid, the masses you have measured are 
+not, unfortunately, the true masses. 
+Because of the buoyant force exerted by 
+the liquid, the mass of the cathode and 
+its increase in mass, Am, will both ap- 
+pear to be less than they would be in 
+air. To find the true mass increase, 
+Am, we must divide the observed mass 
+increase by the factor (l - Di/D.)» where 
+D, is the density of the electrolyte and 
+Da is the density of the copper. 
+
+
+Your instructor will give you the 
+values of these two densities if you can- 
+not measure them for yourself. He will 
+also explain how the correction factor is 
+derived. The important thing for you to 
+understand here is why a correction factor 
+
+
+is necessary. 
+
+
+
+
+
+
+
+
+Results 
+Ql How much charge was transferred to 
+the cathode? 
+
+
+In the solution this positive charge 
+is carried from anode to cathode by doubly 
+charged copper ions, Cu’*. at the cathode 
+the copper ions are neutralized by elec- 
+trons and neutral copper atoms are deposi- 
+ted. 
+
+
+Q2 How many electrons (single negative 
+charge) are required to neutralize each 
+
+
+copper ion? 
+
+
+Q3 How many electrons were required to 
+neutralize the total charge transferred? 
+(Each electron carries -1.6 x 107!9 cou- 
+lomb. ) 
+
+
+Q4 How many copper atoms were deposited? 
+
+
+Q5 What is the mass of each copper atom? 
+
+
+Experiments 
+
+
+Q6 The mass of a penny is about 3 grams. 
+If it were made of copper only, how many 
+atoms would it contain? In fact modern 
+pennies contain zinc (5%) as well as 
+
+
+copper. 
+
+
+Q7 The volume of a penny is about 0.3 
+cm?. How much volume does each atom oc- 
+cupy? 
+
+Q8 You may have learned the concept of 
+gram-atomic weight. The atomic weight 
+of copper is 63.5. How many atoms are 
+
+
+there in one gram atomic weight? 
+
+
+If you repeated this experiment with 
+a different solution and made a deposit 
+of say, silver, you could determine the 
+mass and approximate size of a silver 
+atom. But the answer to the last ques- 
+tion "How many atoms in one gram atomic 
+weight?" would be the same. It is the 
+
+
+same for all the elements. 
+
+
+On 
+
+
+. 
+
+
+A _ - > 
+¢ = 
+ners 
+4 
+
+*!havr te cmd eee 
+so es Hewat . a 
+« 
+» 4 cr] ¢ 7 ‘ 
+
+
+Tr eae 
+> eee 
+
+
+2. OVE . ‘5B 
+i, Wo _— : 
+apte43 ei )4ao0Qvaree uk ok 
+‘ r rer a ‘ 7 ¥ : 
+a VS: PO OS ‘tafe rep upagy.. 2 
+ti. <5 ; “| ba = 
+2 it% Ris nF 5 Ys , ot peng a ; +) ooh 
+ere wit, D) cae 
+* « 
+re aigdumita yaoi thee 
+es 3 .£& the 
+» 4 Le @ “A 
+’ o> fr" liza te 
+Tr ISuTH tom R 
+- bheilioat sis 
+rm - 
+rf “uv @¢ hms 
+[J0el8 Vitaliy 
+we 
+
+
+Cs.) 
+
+
+
+
+
+
+
+
+
+
+
+ACTIVITY 
+
+
+Once Dalton had his theory to work 
+
+
+Dalton’s puzzle 
+
+
+with, the job of figuring out relative 
+atomic masses and empirical formulas 
+boiled down to nothing more than working 
+through a series of puzzles. Here is a 
+very similar kind of puzzle with which 
+you can challenge your classmates. 
+
+
+Choose three sets of objects, each 
+set having a different mass. Large ball 
+bearings of about 70, 160, and 200 grams 
+mass work well. Let the smallest one 
+represent an atom of hydrogen, the middle- 
+sized one an atom of nitrogen, and the 
+large one an atom of oxygen. 
+
+
+From these "atoms," construct "mole- 
+cules" by concealing combinations of 
+atoms in covered styrofoam coffee cups 
+(or other light, opaque containers). 
+
+For example, NH; would be represented 
+by three small objects and one middle- 
+sized one, N,O by two middle-sized ones 
+and one large, and so forth. Label the 
+"compounds" A, B, etc., and mark on each 
+the symbols (with either present-day 
+symbols or Dalton's ideographs) of the 
+elements contained in the compound. 
+Dalton would have obtained this infor- 
+
+
+mation by qualitative analysis. 
+
+
+Give the covered cups to other stu- 
+dents. Instruct them to measure the 
+mass Of each compound and to deduce the 
+relative atomic masses and empirical 
+formulas from the set of masses, making 
+Dalton's assumption of simplicity. If 
+the objects you have used for "atoms" 
+are so light that the mass of the styro- 
+foam cups must be taken into account, 
+you can either supply this information 
+as part of the data or leave it as a 
+complication in the problem (a compli- 
+cation that Dalton didn't have to deal 
+with). 
+
+
+Activities 
+
+
+If the assumption of simplicity is 
+relaxed, what other atomic masses and 
+molecular formulas would be consistent 
+with the data? 
+
+
+ACTIVITY The electrolysis of water 
+
+
+The fact that electricity can decom- 
+pose water was an amazing and exciting 
+discovery, yet the process is one that 
+you can easily demonstrate with materials 
+at your disposal. Figure 17.2 on page 28 
+provides all the necessary information. 
+Set up an electrolysis apparatus and 
+demonstrate the process for your class- 
+
+
+mates. 
+
+
+in Fig. 17.2, it looks as if twice as 
+many bubbles were coming from one elec- 
+trode (which one?) as from the other. 
+Does this happen in your apparatus? 
+
+
+Would you expect it to? 
+
+
+What are the two gases that bubble 
+off the electrodes? Can you prove their 
+identity? Devise a method for collecting 
+the products of the electrolysis. Is 
+water really just these two gases "put 
+together" chemically? If so, can you 
+put the gases together again and get 
+back the water you started with? What 
+happens to all the electricity you sent 
+flowing through the water? 
+
+
+What made this simple process so 
+amazing when it was first observed? Why 
+wasn't it observed earlier? After all, 
+experiments with electricity had been 
+
+
+going on since ancient times. 
+
+
+ACTIVITY Periodic table 
+
+
+You may have seen one or two forms of 
+the periodic table in your classroom, but 
+many others have been devised to empha- 
+size various relationships among the ele- 
+Ments. Some, such as the one on the 
+next page, are more visually interest- 
+
+
+ing than others. Check various sources 
+
+
+Activities 
+
+
+
+
+
+
+
+
+A 
+194a5-"% 
+
+
+@ 
+3° 0 
+2? 
+
+
+
+
+
+OUR HERITAGE OF THE ELEMENTS 
+
+
+‘Adapted from a speech delivered before the American Society for Metals, 
+Metals-Materials Congress, Philadelphia, Pa. October 19, 1964 
+
+
+Reprinted from Chemistry, July 1966, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+in your library and prepare an exhibit of 
+the various types. An especially good 
+lead is the article, “Ups and Downs of 
+the Periodic Table" in Chemistry, July 
+1966 which shows 12 different forms of 
+the table. 
+
+
+It is also interesting to arrange the 
+elements in order of discovery on a linear 
+time chart. Periods of intense activity 
+caused by breakthroughs in methods or 
+extended work by a certain group of in- 
+vestigators show up in groups of names. 
+
+A simple way to do this is to use a type- 
+writer, letting each line represent one 
+year (from 1600 on). All the elements 
+then fit on six normal typing pages which 
+can be fastened together for mounting on 
+awall. A list of dates for all elements 
+is on pages 48 and 49 of the Unit 6 text. 
+
+
+ACTIVITY Single-electrode plating 
+
+
+A student asked if copper would plate 
+out from a solution of copper sulfate if 
+only a negative electrode were placed in 
+the solution. It was tried and no copper 
+was observed even when a high voltage was 
+applied. Another student suggested that 
+only a very small (i.e., invisible) amount 
+of copper was deposited since copper ions 
+should be attracted to a negative elec- 
+trode. 
+
+
+A more precise test was devised. A 
+nickel sulfate solution was made contain- 
+ing several microcuries of radioactive 
+nickel (no radio-copper was available). 
+
+A graphite electrode was immersed in the 
+solution, and a high negative voltage 
+applied for five minutes. The electrode 
+was removed, dried, and tested with a 
+Geiger counter. The rod was slightly 
+radioactive. A control test was run using 
+identical test conditions, except that NO 
+voltage was applied to the electrode. The 
+
+
+control showed MORE radioactivity. 
+
+
+Activities 
+
+
+Repeat these experiments and see if 
+the effect is true generally. What ex- 
+
+
+planation would you give for this effect? 
+(Adapted from Ideas for Science Investiga- 
+ELONS po Neos lols LoOG)r. 
+
+
+ACTIVITY Activities from Scientific 
+
+
+American 
+The following articles from the 
+"Amateur Scientist" section of Scientific 
+American relate to Unit 5. They range 
+widely in difficulty. Each listing has 
+title, year, month and page number. 
+
+
+Accelerator, electron, 1959 Jan. 138. 
+Beta ray spectrometer, 1958 Sept. 197. 
+Carbon 14 dating, 1957 Feb. 159. 
+
+Cloud chamber, diffusion, 1952 Sept. 179. 
+
+
+Cloud chamber, plumber's friend, 1956 
+Dec. 169. 
+
+
+Cloud chamber, Wilson, 1956 Apr. 156. 
+Cloud chamber, with magnet, 1959 June 173. 
+Cyclotron, 19530Sept. 1547 
+
+
+Gas discharge tubes, how to make, 1958 
+Feb. 112. 
+
+
+Geiger counter, how to make, 1960 May 189. 
+Isotope experiments, 1960 May 189. 
+
+
+Magnetic resonance spectrometer, 1959 
+Apr. 171. 
+
+
+Scintillation counter, 1953 Mar. 104. 
+Spectrograph, astronomical, 1956 Sept. 259. 
+Spectrograph, Bunsen's, 1955 June 122. 
+Spinthariscope, 1953 Mar. 104. 
+
+
+Spectroheliograph, how to make, 1958 
+ADre leo. 
+
+
+Subatomic particle scattering, simulating, 
+1965 Aug. 102. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+wm 
+peiurti on eee 
+» eedtaceamte if Met 
+he prec “ey tue 7 2 
+ae viv cern sto 
+evirapven pid, 4 tweis, 
+
+hain en en ; A 
+
+fied i tyes ghee ht 8 ve 
+aw ‘het gat ar a i 
+vse Sevigny’ 4 wit 
+ho RS sb 
+| Ne hen ' 
+J -_ by Dengan § me» ol 
+
+
+iv eg 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+FILM LOOP 46 Production of Sodium 
+by Electrolysis 
+
+
+Humphrey Davy in 1807 first produced 
+metallic sodium by electrolysis of soda 
+(sodium hydroxide). The film shows how 
+
+
+this is done. 
+
+
+First, sodium hydroxide (NaOH) is 
+placed in an iron crucible and heated with 
+a gas flame until it becomes molten at a 
+temperature of 318° C. Then, iron rods to 
+serve as electrodes are inserted into the 
+melt. A rectifier circuit connected to a 
+power transformer supplies a steady cur- 
+rent through the liquid NaOH. Sodium ions 
+are positive and are therefore attracted 
+to the negative electrode; there they pick 
+
+
+up negative charges (electrons) and become 
+
+
+Film Loops 
+
+
+metallic sodium: 
+Navi+ ers Nae 
+
+
+The sodium accumulates in a thin shiny 
+layer floating on the surface of the lig- 
+
+
+uld’. 
+
+
+Sodium is a dangerous material which 
+combines explosively with water. When 
+the experimenter scoops out a little of 
+the metal and places it in water, energy 
+is released rapidly. Some of the sodium 
+is vaporized and emits the yellow light 
+characteristic of the spectrum of sodium. 
+The same yellow spectrum is easily seen 
+if common salt (NaCl) or some other sodi- 
+um compound is sprinkled into an open 
+
+
+flame. 
+
+
+
+
+
+
+
+
+10 
+
+
+Chapter 18 Electrons and Quanta 
+
+
+EXPERIMENT 39 The Charge-to-Mass Ratio 
+for an Electron 
+
+
+In Sec. 18.2 of the text you can read 
+about J. J. Thomson's work on cathode 
+ways. If you did Experiment 37 in Unit 4, 
+"Electron Beam Tube," you have already 
+done some work with cathode rays and have 
+seen how they can be deflected by elec- 
+tric and magnetic fields. In this experi- 
+ment you will be able to repeat Thomson's 
+quantitative measurements that convinced 
+physicists that the rays are charged 
+particles, each with the same ratio of 
+
+
+charge to mass. 
+
+
+For the version of the experiment de- 
+scribed here, you will use your own elec- 
+tron beam tube. There are other methods 
+not described here that you may wish to 
+try. Ask your instructor for details. 
+
+
+Electron-beam tube 
+
+You will need a tube that gives an 
+electron beam at least 5 cm long. If you 
+kept the tube you made in Experiment 37, 
+you may be able to use that. If your 
+class didn't have much success with this 
+experiment, it may mean that your vacuum 
+pump is not working well enough, in which 
+case you will probably decide to use 
+another method. 
+
+
+Thomson's method is summarized on 
+page 41 of Unit 5, and you should read 
+that section of the text before beginning 
+
+
+this experiment. 
+
+
+The magnetic field 
+
+In this experiment you need to be able 
+to adjust the strength of the magnetic 
+field until the magnetic force on the 
+charges just balances the force due to 
+the electric field. To enable you to 
+change the magnetic field, you will use 
+a pair of coils instead of permanent mag- 
+nets. You can vary the magnetic field 
+by changing the current in the coils. 
+
+
+
+
+
+
+
+
+Experiments 
+
+
+Take a cardboard tube about 3" in diam- 
+Sten did.  etOng..) Cull es BLOG. La Wane Lf 
+it. Your electron-beam tube should fit 
+into Ehises.otu rice) = 
+
+
+Now wind a pair of coils, one on each 
+side of the slot. Use insulated copper 
+wire (magnet wire). Use about 20 turns 
+of wire for each of the two coils, one 
+coil on each side of the slot. Make the 
+coils as neat as you can and keep them 
+close to the slot. Wind both coils in 
+the same sense (that is, both clockwise) 
+and use one piece of wire for both coils. 
+Leave about 10" of wire free at both ends 
+Of the coil. (Don't cut the wire off the 
+reel until you have found how much you'll 
+
+
+need!) 
+
+
+Sa 
+
+
+
+
+
+Fig. 1 Sketch of coils 
+
+
+Now that you have made your magnet, 
+you must calibrate it. You can use the 
+current balance, as you did in Experiment 
+36. Use the shortest of the balance 
+"loops" so that it will fit inside the 
+
+
+coils as shown in Fig. 2. 
+
+
+® @) 
+
+
+eeeeeeee ai 
+er ey) 
+**® eee eesce 
+
+
+e 
+° 
+° 
+* 
+s 
+° 
+° 
+
+
+(}@eeeneeeen e 
+
+
+i er oe ee oe ee ee ee | 
+
+
+*#6#eee*¢ 
+ee # + 
+
+
+
+
+
+Fig. 2 
+
+
+11 
+
+
+
+
+
+
+
+
+Experiments 
+
+
+Measure the force F for a current I in 
+the loop. Use F = BI to calculate the 
+magnetic field due to the current in the 
+coils. Do this for several different 
+values of current in the coil and plot a 
+graph of magnetic field B against coil 
+
+
+current I. 
+
+
+Experimental 
+Set up your beam tube as in Experiment 
+
+
+Si 
+
+
+Deflecting 
+
+
+
+
+
+Fig. 3 Connections of beam tube 
+
+
+Pump it out and adjust the filament 
+current until you have an easily visible 
+beam. Connect a wire between the pin for 
+the deflecting plate and the pin for the 
+anode plate. There is now no field be- 
+tween the plates and the electron beam 
+should go straight up the center of the 
+tube between the two plates; if it does 
+not, it is probably because the filament 
+and the hole in the anode are not properly 
+
+
+aligned. 
+
+
+Now, without releasing the vacuum, 
+mount the coils around the tube as shown 
+in Pigs. 8s 
+
+Connect the two leads from your coils 
+to a power supply capable of giving up 
+to 5 amps direct current. There must be 
+a rheostat in the circuit to control the 
+current and an ammeter to measure it. 
+
+
+Now put a potential difference of 
+about 100 volts between the anode plate 
+and the deflecting plate, to deflect the 
+beam as in Fig. 18.4 (c). Observe which 
+way the beam is deflected. 
+
+
+des 
+
+
+
+
+
+Fig. 4 The magnetic field is parallel to the 
+axis of the coils; the electric and 
+magnetic fields are perpendicular to 
+each other and to the electron beam, 
+
+
+Turn off the electric field (by making 
+both anode and deflecting plates the same 
+potential). Turn on and slowly increase 
+the current in the coils until the mag- 
+netic field is strong enough to deflect 
+the electron beam noticeably. This de- 
+flection must be opposite to the deflec- 
+tion caused by the electric field. You 
+may have to reverse the direction of the 
+
+
+current in the coils. 
+
+
+Now turn the electric field on again. 
+Which field has the greater effect on the 
+beam—the electric or the magnetic? Ad- 
+just the magnetic field by controlling 
+the current in the coils until the ef- 
+fects of the two fields balance each other 
+and the electron beam goes straight along 
+the middle of the tube. 
+
+
+Record the current in the coils, and 
+the potential difference between the de- 
+flecting plate and anode plate. You can 
+find the magnetic field B from your cal- 
+ibration graph ‘of ‘coil current :vsiiiB. 
+
+
+You need to know one more quantity 
+
+
+
+
+
+before you can calculate q/m. This is 
+R, the radius of the arc which the elec- 
+tron beam is bent into by the magnetic 
+ToOPpcindan, turn oLf the 
+
+
+electric field again, but leave the mag- 
+
+
+field alone. 
+
+
+netic field on with the same current in 
+the coils. Observe the deflection of 
+
+the beam due to the magnetic field alone. 
+The magnetic field is uniform in the re- 
+gion between the coils and so this curved 
+arc should be circular. You won't be 
+able to measure the radius directly, but 
+here is one way you can do it from meas- 
+
+
+urements that are easy to make: 
+
+
+~x< 
+t 
+< 
+“u ndeLlecdtad 
+electron 
+beam 
+
+
+bearn bert irik 
+t Crreuler arc 
+(radius F) by 
+\ magnetic Diéld 
+
+
+ae | 
+
+
+perpendicular 
+
+
+1} ae 
+
+
+Experiments 
+
+
+You can measure x and d. It follows 
+from Pythagoras' theorem that R* = d? + 
+2 2 
+ee mayts bes oe 
+(R x)*, so R es ; 
+
+
+Now you can use the formula q,/m = 
+E/B*R, obtained by equating the magnetic 
+and electric forces on the charges, to 
+
+
+calculate your value of q./m. 
+
+
+If possible you should find other 
+pairs of values of E and B which leave 
+the beam undeflected, measure R for each 
+value of B and calculate more experimen- 
+
+
+tal values for q,/m. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+EXPERIMENT 40 The Measurement of 
+Elementary Charge 
+In this experiment you are going to 
+measure very small electric charges to 
+see if there is a limit to how small an 
+electric charge can be. Try to answer 
+these three questions before you begin 
+
+
+to do the experiment in the lab. 
+
+
+Ql What is the electric field between 
+two parallel plates separated by a dis- 
+tance d meters, if the potential differ- 
+
+
+ence between them is V volts? 
+
+
+Q2 What is the electric force on a par- 
+ticle carrying a charge of q coulombs in 
+an electric field of E volts/meter? 
+
+
+Q3 What is the gravitational force on a 
+particle of mass m in the earth's gravi- 
+tational field? 
+
+
+Background 
+
+This experiment is substantially the 
+same as Millikan's famous oil-drop experi- 
+ment, described on page 43 of Unit 5. The 
+following instructions assume that you have 
+
+
+read that description. 
+
+
+We measure electric charges by measur- 
+ing the forces they produce and experi- 
+ence. The extremely small charges which 
+interest us require that we measure ex- 
+tremely small forces. Objects on which 
+such small forces can have a visible ef- 
+
+
+fect must also in turn be very small. 
+
+
+Millikan used the electrically charged 
+Such 
+droplets vary in size, which complicated 
+
+
+droplets of oil in a fine spray. 
+his measurements. Fortunately we now 
+have available suitable objects whose 
+sizes are accurately known. We use small 
+latex spheres (about 10~* cm diameter) 
+which are in any given sample almost 
+identical in size. In fact, these spheres, 
+shown magnified in Fig. 1, are used by 
+electron microscopists to find the mag- 
+
+
+nification of their instruments. The 
+
+
+spheres can be bought in a water suspension, 
+
+
+Experiments 
+
+
+
+
+
+rr eh RS OM ASOT tO 
+
+
+Fig. 1 Electron micrograph of latex spheres 
+1.099 in diameter (~ 1.1 x 107% cm), 
+silhouetted against diffracting grating 
+of 28,800 lines/inch. 
+
+(Courtesy L. J. Lippie 
+Dow Chemical Company, 
+Midland, Michigan.) 
+
+
+with their diameter recorded on the bot- 
+
+tle. When the suspension is sprayed into 
+the air the water quickly evaporates and 
+
+leaves a cloud of these particles in the 
+
+air. They become charged by friction 
+
+
+during the spraying. In the space between 
+
+
+the plates of the Millikan apparatus they 
+appear through the 50-power microscope as 
+
+
++ ge ee 
+
+
+bright points of light against a dark 
+background. 
+
+
+Since the electric field between the 
+plates can pull them upwards against the 
+force of gravity, we know the spheres in 
+
+
+the spray are charged electrically. 
+
+
+In our experiment we adjust the elec- 
+tric field until a sphere hangs motion- 
+less. Then we know that the upward elec- 
+tric force on it, Eq, is exactly equal 
+to the downward gravitational force, ma: 
+We know the electric field strength, E, 
+from the potential difference and the 
+plate separation: E = ‘. We also know 
+the mass m of the sphere (all the spheres 
+have the same size and mass). We can 
+then easily solve the equation, equating 
+the electric to the gravitational force, 
+
+
+Eq = ot for the charge on the sphere, q. 
+
+
+a) 
+
+
+
+
+
+Experiments 
+
+
+Using the apparatus 
+
+If the apparatus is not already in 
+working order, consult your instructor. 
+Study Fig. 2 until you can identify the 
+various parts. Then switch on the light 
+source and look through the microscope. 
+You should see a series of lines in clear 
+
+
+focus against a uniform, light gray back- 
+
+
+ground. 
+
+
+_ 220v for 
+
+
+bottle of alt eviews 
+call plates latex spheres onthe J 
+Fig. 2(a) 
+
+
+The lens may mist up as the heat from 
+the lamp drives moisture out of the light- 
+source tube. If this happens remove the 
+lens and wipe it on a clean tissue. Wait 
+for the tube to warm up thoroughly be- 
+
+
+fore replacing the lens. 
+
+
+
+
+
+Reversin 
+Nelinge _ Switeh 
+ConTre| N 
+~~ iE a 
+> J | 
+5 : 
+Sa es yi voltmeter 
+Fig. 2(b) 
+
+
+16 
+
+
+
+
+
+Squeeze the bottle of latex suspension 
+two or three times until five or ten par- 
+ticles (latex spheres) drift into the 
+view seen through the microscope. You 
+will see them as tiny bright spots of 
+light. You may have to adjust the focus 
+slightly to see a specific particle clear- 
+ly. Notice how the particles appear to 
+move upward. The view is inverted by the 
+microscope—the particles are actually 
+falling in the earth's gravitational 
+field. 
+
+
+Now switch on the high voltage across 
+the plates by turning the switch up or 
+down. Notice the effect on the particles 
+of varying the electric field by means of 
+the voltage-control knob. 
+
+
+Notice the effect when you reverse the 
+electric field by reversing the switch 
+position. (When the switch is in its 
+mid-position, there is zero field between 
+
+
+the plates.) 
+
+
+Q4 Do all the particles move in the same 
+direction when the field is on? 
+
+
+Q5 How do you explain this? 
+
+
+Q6 Why do some move much more rapidly in 
+the field than others? 
+
+
+Q7 Do the rapidly moving particles have 
+larger or smaller charges than the slowly 
+
+
+moving ones? 
+
+
+Sometimes a few particles cling to- 
+gether, making a clump that is easy to 
+see—the clump falls more rapidly than 
+single particles when the electric field 
+is off. Do not try.to use these for 
+
+
+measuring q. 
+
+
+Try to balance a particle by adjusting 
+the field until the particle hangs motion- 
+less. Observe it carefully to make sure 
+it isn't slowly drifting up or down. The 
+smaller the charge, the greater the elec- 
+tric field must be to hold up the particle. 
+
+
+
+
+
+
+
+
+
+
+
+Taking data 
+
+It is not worth working at voltages 
+much below 100 volts. Only highly charged 
+particles can be balanced in these small 
+fields, and we are interested in obtain- 
+
+
+ing the smallest charge possible. 
+
+
+Set the potential difference between 
+the plates to about 100 volts. Turn the 
+switch up and down a few times so that 
+the more quickly moving particles (those 
+with greater charge) are swept out of the 
+field of view. Any particles that remain 
+have low charges. If no particles remain, 
+squeeze in some more and look again for 
+
+
+some with small charge. 
+
+
+When you have isolated one of these 
+particles carrying a low charge, adjust 
+the voltage carefully until the particle 
+hangs motionless. Observe it for some 
+time to make sure that it isn't moving 
+up or down very slowly, and that the ad- 
+justment of voltage is as precise as pos- 
+sible. 
+
+Read the voltmeter. Then estimate the 
+precision of the voltage setting by see- 
+ing how little the voltage needs to be 
+changed to cause the particle to move 
+just perceptibly. This small change in 
+voltage is the greatest amount by which 
+your setting of the balancing voltage can 
+
+
+be uncertain. 
+
+
+A few precise readings of the balancing 
+voltage are more useful than several less 
+reliable values. When you have balanced 
+a particle, make sure that the voltage 
+setting is as precise as you can make it 
+before you go on to another particle. 
+
+The most useful range to work in is 100- 
+150 volts, but try to find particles that 
+can be brought to rest in the 200-250 
+
+volt range too, if the meter can be used 
+in that range. Remember that the higher 
+the balancing field the smaller the charge 
+
+
+on the particle. 
+
+
+Experiments 
+
+
+Treatment of results 
+
+On a balanced particle carrying a 
+charge q, the upward electric force, Eq, 
+and the downward gravitational force, 
+
+
+sts are equal, so 
+
+
+ma_ = Eq. 
+
+The field E = V/d, where V is the 
+voltage between the plates (the volt- 
+meter reading) and d is the separation 
+of the plates. 
+
+
+Hence 
+mad 
+
+
+Seek: 
+qe (1) 
+All of the quantities on the right can be 
+
+
+measured. 
+
+
+You already know a, and have a record 
+
+
+of V for each balanced particle. 
+
+
+The separation of the two plates, d, 
+is given by the manufacturer as 5.0 mn, 
+or 5.0 x 1073 m. You may want to check 
+this. 
+
+
+The mass of the spheres, m, is worked 
+out from a knowledge of their volume and 
+
+
+density. 
+
+
+Mass = volume x density, or 
+
+
+m= Srx3 se ae 
+
+
+The diameter (careful: 2r) has been pre- 
+viously measured and is given on the sup- 
+ply bottle, and the density, D, is 1077 
+kg/m? (found by measuring a large batch 
+of latex before it is made into little 
+spheres). 
+
+Notice that Hees is a constant for 
+all measurements and need only be found 
+once. Each value of q will be this con- 
+stant mad times 1/V, as Eq. (1) shows. 
+Because balancing voltage required is 
+greater for smaller charges, q will be 
+
+
+proportional to 1/V. 
+
+
+Tabulate your values of V and 1/V ~x 
+
+
+10-* in parallel vertical colums. 
+(Multiplying all the 1/V values by 1072 
+gives numbers that are simpler to handle.) 
+
+
+LT 
+
+
+
+
+
+
+
+
+Experiments 
+
+
+Then arrange your values of 1/V x 1072 
+in increasing order. Notice that some 
+values occur several times. Plot a bar 
+graph in which the vertical axis is 
+1/v x 1072 and the horizontal axis, num- 
+bered: 1)" 2,507 wesecte., 25. the position 
+
+
+of the value in your ordered column. 
+
+
+Q8 Does your bar graph suggest that all 
+values of q are possible and that elec- 
+
+tric charge is therefore endlessly divi- 
+sible, or does it come in least-sized 
+
+
+chunks? 
+
+
+18 
+
+
+Q9 What is the spacing between the ob- 
+served values of 1/V, and what is the 
+difference in charge that corresponds to 
+this difference in 1/V? 
+
+
+Q10 What is the smallest value of 1/V 
+that you observed? What is the corres- 
+ponding value of q? 
+
+
+Qll Do your experimental results sup- 
+port the idea that electric charge is 
+
+quantized? If so, what is your value 
+
+for the quantum of charge? 
+
+
+
+
+
+
+
+
+
+
+
+EXPERIMENT 42 The Photoelectric Effect 
+
+
+This experiment gives you evidence 
+about the nature of light. Specifically, 
+you will see what happens when light 
+falls on a photoelectric tube; then you 
+will compare the abilities of the wave 
+model and the particle model of light to 
+explain what you see. 
+
+Before doing the experiment you 
+should read Sec. 18.4 (Unit 5), and then 
+The red 
+
+
+to the 
+
+
+study the apparatus in Fig. l. 
+wire on the phototube unit goes 
+
+
+red (input) terminal of the amplifier. 
+
+
+How the apparatus works 
+
+
+Light that you shine through the 
+window of the phototube falls on a half- 
+cylinder of metal called the emitter. 
+The light drives electrons from the 
+emitter surface. 
+
+Along the axis of the emitter (the 
+center of the tube) is a wire called the 
+collector. When the collector is made 
+a few volts positive with respect to the 
+emitter, practically all the emitted 
+electrons are drawn to it, and a current 
+appears in the external circuit. 
+
+The small photoelectric current 
+input to the amplifier controls an out- 
+
+
+put current several thousand times 
+
+
+soseayopen’ 4 
+
+
+erent SAREE SHEERS 0m ADSM INH A SHDH 
+
+
+oP Wi ranaot 
+
+
+| 
+i 
+| 
+| 
+
+
+
+
+
+Fig. 1 
+
+
+
+
+
+
+
+
+Experiments 
+
+
+larger. This output current is read on 
+a microammeter. 
+
+The voltage control knob on the 
+phototube unit allows you to vary the 
+voltage between emitter and collector. 
+As you turn the knob clockwise the 
+photocurrent drops. You are making 
+the collector more and more negative 
+and fewer and fewer electrons get to 
+it. Finally the photocurrent ceases 
+altogether--all the electrons are 
+turned back before reaching the col- 
+lector. The voltage between emitter 
+and collector that just stops all the 
+electrons is called the "stopping 
+voltage." Because there is some drift 
+of the amplifier output, the most 
+sensitive zeroing method is to alterna- 
+tely cover and uncover the phototube 
+with black paper. Then turn up the 
+collector voltage until covering and 
+uncovering the tube has no effect on 
+the meter reading--the exact location 
+of the meter pointer, which may drift 
+around a little, isn't important. 
+
+The position of the knob at the 
+cutoff gives you a rough measure of 
+the collector voltage. To measure 
+it more precisely, connect a volt- 
+meter as shown in Fig. 2, on the 
+
+
+next page. 
+
+
+ee 
+
+
+19 
+
+
+
+
+
+
+
+
+Experiments 
+
+
+In the experiment you measure stopping 
+voltages as light of various frequencies 
+falls on the phototube. The filters se- 
+lect frequencies from the mercury spec- 
+trum emitted by a fluorescent lamp or 
+
+
+mercury lamp. 
+
+
+Useful frequencies of the mercury 
+
+
+spectrum lines are: 
+
+
+yellow 5.2 x 10!4/sec 
+green 5.5°* 10!*/sec 
+blue 6.9 x 1014*/sec 
+violet 7.3°* 101"*/sec 
+
+
+(ultraviolet 8.2 x 10!4/sec) 
+
+
+You can use a hand spectroscope to find 
+the highest frequency line passed by 
+
+
+each filter. 
+Doing the experiment 
+
+
+The first part of the experiment is 
+
+
+qualitative. 
+
+
+(1) To see how the kinetic energy of 
+photoelectrons depends on the frequency 
+of incident light, measure the stopping 
+voltage with various filters over the 
+
+
+window. 
+
+
+The Unit 5 text (Sec. 18.4) explains 
+that the maximum kinetic energy of the 
+photoelectrons is Va." where V is the 
+stopping voltage and q, = 1.60 x 10719 
+
+
+coulombs, the charge on an electron. 
+
+
+Ql How does the stopping voltage 
+change as the light is changed from 
+yellow through blue or ultraviolet? 
+
+
+(2) To see how the current in the 
+phototube depends on the intensity of 
+incident light, vary the distance of the 
+light source. 
+
+
+Q2 Does the number of photoelectrons 
+emitted from the sensitive surface vary with 
+light intensity--i.e., does the output 
+current of the amplifier vary with the 
+
+
+intensity of the light? 
+
+
+Q3 Does the kinetic energy of the photo- 
+
+
+electrons depend on intensity—i.e., does 
+
+
+20 
+
+
+the stopping voltage change? 
+
+
+(3) To see if there is time delay be- 
+tween light falling on the emitter and 
+the emission of photoelectrons, cover 
+the phototube and then quickly remove 
+
+
+the cover. 
+
+
+Q4 Can you detect any time delay between 
+the moment that light hits the phototube and 
+the moment that the detector signals the 
+passage of photoelectrons through the 
+phototube? 
+
+
+In the second part of the experiment 
+you make more precise measurements of 
+To do this, adjust 
+the voltage control knob to the cutoff 
+
+
+stopping voltage. 
+
+
+(stopping voltage) position and then 
+
+
+measure V with a voltmeter (Fig. 2). 
+
+
+
+
+
+v 
+
+
+te voltmater 
+¥ 
+
+
+Connect the voltmeter only after the 
+
+cut-off adjustment is made so that the 
+voltmeter leads will not pick up any ac 
+voltage (induced from other conducting 
+wires in the room) and contribute it as 
+
+
+hum in the earphone. 
+
+
+Measure the stopping voltage, V, for 
+three or four different light frequencies, 
+
+
+and plot the data on a graph. 
+
+
+Along the vertical axis plot electron 
+energy, Vq.- (When the stopping voltage 
+Vii Ss sinevoles sand qe is in coulombs, Va, 
+
+
+will be energy, in joules.) 
+
+
+Along the horizontal axis plot fre- 
+quency of light f. 
+
+
+Discussion 
+
+
+As suggested in the opening paragraph, 
+we are interested in comparing the wave 
+model of light and the particle model. 
+Consider, then, how these models explain 
+
+
+your observations. 
+
+
+
+
+
+
+
+
+
+
+
+Q5 If light striking your phototube acts 
+
+
+as waves-—— 
+
+
+a) Can you explain why the stopping 
+voltage should depend on the frequency 
+OLelights 
+
+b) Why would you expect the stopping 
+voltage to depend on the intensity of 
+
+the light? 
+
+c) Would you expect there to be a delay 
+between the time that light first strikes 
+the emitter and the emission of photo- 
+electrons? Would it matter if the inten- 
+
+
+sity of light were very low? 
+
+
+O65 If Tight is acting as a stream of 
+particles, what would be the answer to 
+
+
+each of these questions? 
+
+
+If you went on to draw the graph in 
+the second part of the experiment, you 
+should be prepared to interpret it. 
+Remember that Einstein predicted its 
+form (in 1905) and by experiments similar 
+to yours, Millikan verified Einstein's 
+
+
+prearction (in 1916)". 
+
+
+Einstein's photoelectric equation 
+(Unit 5 text, Sec. 18.4) describes the 
+energy of the most energetic photoelec- 
+trons (the last ones to be stopped as 
+
+
+the voltage is increased), as 
+
+
+2 = = a 
+5mV ease Va. hf W. 
+
+
+This equation has the form 
+
+
+Vee KX amc. 
+
+
+
+
+
+
+
+
+Experiments 
+
+
+In this equation -c is a constant, the 
+value of y at the point where the 
+straight line cuts the vertical axis, 
+and k is another constant, namely the 
+slope of the line. Therefore, the slope 
+
+
+of a graph of Va. against f should be h. 
+
+
+Q7 What is the value of the slope of 
+
+
+your graph? 
+
+
+Q8 How well does it compare with the 
+value of Planck's constant, h = 6.6 x 
+
+
+10-34 joule-sec? 
+
+
+With this equipment, the slope is un- 
+likely to agree with the accepted value 
+of h (6.6 x 10734 joule-sec) more closely 
+than an order of magnitude. Perhaps you 
+can give a few reasons why your agree- 
+
+
+ment cannot be more than approximate. 
+
+
+Q9 On your graph what is the threshold 
+frequency, f)9? This is the lowest fre- 
+
+
+quency at which any electrons are emitted 
+
+
+from the cathode surface. At this fre- 
+quency cy Paap = 0 and hf, = W, where W 
+is the "work function." Your experimen- 
+
+
+tally obtained value of W is not likely 
+
+
+to be the same as that found for very 
+clean cathode surfaces, more carefully 
+filtered light, etc. The important thing 
+
+to notice here is that there is a value 
+
+of W, indicating that there is a minimum 
+
+energy needed to release photoelectrons 
+
+
+from the emitter. 
+
+
+Einstein's equation was derived from 
+the assumption of a particle (photon) 
+model of light. 
+
+
+Ql1l0 If your results do not fully agree 
+with Einstein's equation, does this mean 
+that your experiment supports the wave 
+
+
+theory? 
+
+
+oil 
+
+
+
+
+
+
+
+
+N 
+N 
+
+
+
+
+
+
+
+
+ACTIVITY Writings by and about 
+Einstein 
+
+
+In addition to his scientific works, 
+Einstein wrote many essays on other 
+areas of life which are easy to read, 
+perceptive, and still very current. The 
+chapter titles from Out of My Later Years 
+(Philosophical Library, N.Y. 1950) indi- 
+cate the scope of these essays: Convic- 
+tions and Beliefs, Science, Public Af- 
+fairs, Science and Life, Personalities, 
+My People. This book includes his writ- 
+ings from 1934 to 1950. The World As I 
+See It includes material from 1922 to 
+1934. Albert Einstein: Philosopher- 
+Scientist, Vol. I (Harper Torchbook, 
+1959) contains Einstein's autobiographi- 
+cal notes, left-hand pages in German and 
+right-hand pages in English, and essays 
+by twelve physicist contemporaries of 
+Einstein's about various aspects of his 
+work. See also the three articles, 
+"Einstein," “Outside and Inside the 
+Elevator," and “Einstein and Some Civi- 
+lized Discontents" in the Unit 5 Project 
+
+
+Physics Reader. 
+
+
+ACTIVITY Measuring q/m for the 
+electron 
+
+
+With the help of a "tuning eye" tube 
+Such as you may have seen in radio sets, 
+you can measure the charge-to-mass ratio 
+of the electron in a way that is very 
+
+
+close to J.J. Thomson's original method. 
+
+
+Complete instructions are in the PSSC 
+Physics Laboratory Guide, Second Edition, 
+D.C. Heath and Company, 1965, Experiment 
+Iv-12, The Mass of the Electron, pp. 79- 
+al. 
+
+
+When Thomson made his earliest mea- 
+surements of this kind, he did not of 
+course obtain the electron mass but 
+rather q./m. To compute the mass sepa- 
+rately, you need to know das which was 
+not known accurately until Millikan 
+
+
+Measured it. 
+
+
+
+
+
+Activities 
+
+
+ACTIVITY Cathode rays in a Crookes’ tube 
+
+
+Use a Crookes' tube to demonstrate to 
+the class the deflection of cathode rays 
+in magnetic fields. You can also show 
+how a magnet focuses cathode rays: bring 
+One pole of a strong bar magnet toward 
+the shadow of the cross-shaped obstacle 
+on the end of the tube, as shown. Watch 
+what happens to the shadow as the magnet 
+gets closer and closer to it. What hap- 
+pens when you switch the poles of the 
+Magnet? What do you think would happen 
+if you had a stronger magnet? 
+
+
+Can you demonstrate deflection by an 
+electric field? For any given voltage 
+Supply, how can you produce the greatest 
+possible electric field? One way is to 
+bring your electrodes close together, but 
+the size of the Crookes tube sets a limit 
+on this procedure. Another way is to use 
+sharply pointed electrodes, but sharp 
+points tend to spark—just because they 
+produce high electric fields. 
+
+
+You can keep sparks from interfering 
+with your observations by reducing the 
+pressure in the tube until there is too 
+little gas present to provide an ionized 
+path for the sparks to follow. This is 
+how Thomson first solved the problem in 
+1897. If your vacuum pump is good, try 
+it. Pump the electron-beam tube you made 
+in experiment 37 to a good enough vacuum 
+so that you can observe electric deflec- 
+tion without sparking. (This will require 
+rather high voltages—be careful.) Then 
+slowly let in air until the effect is no 
+longer visible. At this higher pressure, 
+can you still obtain magnetic deflections? 
+
+
+If you have an electrostatic generator, 
+such as a small Van de Graaff or a Wims- 
+hurst machine, try deflecting the rays 
+using parallel plates across the generator. 
+
+
+23 
+
+
+
+
+
+Activities 
+
+
+ACTIVITY X-rays from a Crookes’ tube 
+
+
+A Crookes' tube having a metal barrier 
+inside it for demonstrating that cathode 
+rays travel in straight lines may be 
+available in your classroom. In use the 
+tube is excited by a Tesla coil or in- 
+
+
+duction coil. 
+
+
+
+
+
+Fig. l 
+
+
+To demonstrate that x rays penetrate 
+materials which stop visible light, place 
+a sheet of 4 x 5 3000 speed Polaroid 
+film, still in its protective paper 
+jacket, in contact with the end of the 
+Crookes' tube. (A film pack cannot be 
+used unless you are willing to sacrifice 
+the entire pack. Any other photographic 
+film in a light-tight paper envelope 
+could be substituted.) Support the film 
+on books or the table so that it doesn't 
+move during the exposure. Figure 1 was 
+a l-minute exposure using a hand-held 
+
+
+Tesla coil to excite the Crookes' tube. 
+
+
+ACTIVITY Lighting a light bulb with 
+
+
+a match photoelectrically 
+
+
+Here is a trick that you can challenge 
+your friends with. It illustrates one 
+of the many amusing and useful applica- 
+tions of the photoelectric effect in real 
+
+
+life. 
+
+
+24 
+
+
+Equipment 
+
+
+
+
+
+
+
+
+1P39 photocell @ 
+
+
+6-volt, 15-watt light bulb (light source 
+from the Millikan apparatus) 
+
+
+6-volt, 2.5-amp power supply (or dry cell) 
+amplifier 
+
+
+transistor switch 
+
+
+The photocell is the same one as is 
+used in Experiment 42, The Photoelectric 
+Effect. The light source from the Milli- 
+
+
+kan apparatus is suitable. 
+
+
+Position the photocell and light bulb 
+as close to each other as possible, leav- 
+ing just enough room to insert a lighted 
+
+
+Match between them (3/4 inch or so). As- 
+
+
+— 
+
+
+semble the rest of the equipment and wire 
+tas" indicated=insrig=. > 
+Turn the GAIN up all the way. With the 
+
+
+aXe 
+
+
+| AMPUFIER | 
+} 
+
+
+‘aes oe 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+r 
+| 
+| 
+| 
+j 
+| 
+sa 
+/ 
+? 
+> 
+| 
+| | 
+t 
+| 
+! 
+j 
+m1 4 
+{ 
+| J 
+
+
+Power Suppcy| 
+
+
+| 
+Oo» 6V \ b 
+ff i TRANSISTOR 
+
+
+eC SS Re 
+
+
+IP34% 6V ISW bulb 
+
+
+
+
+
+PHETOTUBE 
+
+
+Fig. 1 
+DC OFFSET near zero and the DC-AC switch 2 
+set at DC, turn on the amplifier. Now 
+
+
+turn the DC OFFSET up until the light 
+
+bulb goes on, then turn it down very 
+carefully until the bulb is just not quite 
+is 
+
+
+When the circuit is adjusted properly, 
+a lighted match inserted between the bulb 
+and the photocell activates the photocell, 
+turning on the current through the transis- 
+tor switch to the bulb. Once the bulb 
+is lit, it keeps the photocell activated 
+by its own light; you can remove the 
+match and the bulb will stay lit. 
+
+
+
+
+
+
+
+
+When you are demonstrating this effect, 
+tell your audience that the bulb is really 
+a candle and that it shouldn't surprise 
+them that you can light it with a match. 
+And of course one way to put out a candle 
+is to moisten your fingers and pinch out 
+the wick. When your fingers pass between 
+the bulb and the photocell, the bulb 
+turns off, although the filament may 
+glow a little, just as the wick of a 
+freshly snuffed candle does. You can 
+also make a "candle-snuffer" from a little 
+cone of any reasonably opaque material 
+and use this instead of your fingers. 
+
+Or you can "blow out" the bulb: it will 
+go out obediently if you take care to 
+remove it from in front of the photo- 
+
+
+cell as you blow it out. 
+
+
+
+
+
+Activities 
+
+
+25 
+
+
+
+
+
+wo 
+N 
+
+
+
+
+
+Chapter 19 The Rutherford —Bohr Model of the Atom 
+
+
+EXPERIMENT 43 Spectroscopy 
+
+
+Spectra are immensely useful. Elements 
+and compounds can be identified by exam- 
+ining their spectra. Scientists learn 
+about the structure of atoms and mole- 
+cules and determine the composition of 
+distant stars and nebulae by studying 
+
+
+their spectra. 
+
+
+You are about to observe the spectra 
+of a variety of sources to see how they 
+differ and to learn how to measure wave- 
+lengths of the light emitted. You will 
+be able to measure the wavelengths of the 
+spectrum lines of hydrogen and to relate 
+these wavelengths to the structure of the 
+
+
+hydrogen atom. 
+
+
+Materials can be made to give off 
+light (can be "excited") in several dif- 
+ferent ways: by heating in a flame, by 
+an electric spark between electrodes made 
+of the material, or by an electric cur- 
+
+
+rent through a gas at low pressure. 
+
+
+The light emitted can be dispersed 
+into a spectrum by either a prism or a 
+diffraction grating. 
+
+
+In this experiment you will use a dif- 
+fraction grating to examine light from 
+various sources. A diffraction grating 
+consists of many very fine parallel 
+grooves on a piece of glass or plastic. 
+The grooves can be seen under a 400-power 
+
+
+microscope. 
+
+
+In Experiment 32 (Young's experiment) 
+you saw how two narrow slits spread light 
+of different wavelengths through different 
+angles, and you used the double slit to 
+make approximate measurements of the 
+wavelengths of light of different colors. 
+The distance between the two slits was 
+about 0.2 mm. The distance between the 
+lines in a diffraction grating is about 
+0.002 mm. And there may be about 10,000 
+grooves instead of just two. Because 
+
+
+there are more lines and they are closer 
+
+
+
+
+
+Experiments 
+
+
+together, the grating separates (disperses) 
+the different wavelengths much more, and 
+can be used to make accurate measurements 
+
+
+of wavelength. 
+
+
+Observing spectra 
+
+You can observe diffraction when you 
+look at light that is reflected from a 
+phonograph record. Hold the record 
+(diffraction grating) so that light from 
+a distance source is almost parallel to 
+the record's surface (Fig. 1). You will 
+see that the grooved surface disperses 
+light into a spectrum. 
+
+
+
+
+
+Fig. 1 
+
+Use a diffraction grating to see spec- 
+tra simply by holding the grating close 
+to your eye with the lines of the grating 
+parallel to a light source. Better yet, 
+arrange a slit about 25 cm in front of 
+
+
+the grating, as in a pocket spectroscope. 
+
+
+Look through the pocket spectroscope 
+at a fluorescent light, at an ordinary 
+(incandescent) light bulb, at mercury- 
+vapor and sodium vapor street lamps, at 
+neon signs, at light from the sky (but 
+don't look directly at the sun) and at a 
+flame into which various compounds are 
+introduced (such as salts of sodium, 
+
+
+potassium, strontium, barium and calcium). 
+
+
+You should now be able to answer some 
+
+
+questions about spectra. 
+
+
+Ql Which colors are bent (diffracted) 
+most and which least by the grating? Are 
+the long wavelengths diffracted more than 
+
+
+the short, or vice-versa? 
+
+
+Q2 What different kinds of spectra can 
+
+
+you describe? 
+
+
+Make a table showing the type of 
+spectrum produced by each of the light 
+
+
+sources you observed. 
+
+
+27 
+
+
+
+
+
+
+
+
+Experiments 
+
+
+Photographing the spectrum 
+
+
+You can make measurements of the wave- 
+lengths of spectral lines from a photo- 
+graph of the spectrum. 
+
+
+An advantage of a photograph is that 
+it reveals a greater range of wavelengths 
+
+
+than can be seen by the human eye. 
+
+
+When you hold the grating up to your 
+eye, the lens of your eye focusses the 
+diffracted rays to form a series of col- 
+ored images on the retina. If you put 
+the grating in front of the camera lens 
+focussed on the source, the lens will 
+
+
+produce sharp images on the film. 
+
+
+The spectrum of hydrogen is a particu- 
+larly interesting one to measure because 
+hydrogen is the simplest atom and its 
+spectrum is fairly easily related to a 
+model of its structure. In this experi- 
+ment atomic hydrogen gas in a glass tube 
+
+
+is excited by an electric current. 
+
+
+Set up a meter stick just behind the 
+tube (Fig. 2). This is a scale against 
+which to observe and measure the position 
+
+
+of the spectrum lines. 
+
+
+Look through the grating at the glow- 
+ing tube to locate the positions of the 
+visible spectral lines against the meter 
+
+
+stick. 
+
+
+
+
+
+Fig. 2 
+
+
+28 
+
+
+
+
+
+Then fasten the grating over the 
+camera lens and set up the camera with @ 
+its lens in the same position your eye 
+
+
+was. 
+
+
+
+
+
+Remember that the grating lines must be 
+
+
+parallel to the source. 
+
+
+Now take a photograph that shows both 
+the scale on the meter stick and the 
+spectral lines. You may be able to take 
+a single exposure for both, or you may 
+have to make a double exposure—first 
+the spectrum, and then, with more light 
+in the room, the scale. It depends on 
+the amount of light in the room. Consult 
+
+
+your instructor. 
+
+
+Analyzing the spectrum 
+
+Count the number of spectral lines on 
+the photograph. Use a magnifying eyepiece 
+to help pick out the faint ones. 
+Q3 Are there more lines than you can 
+
+
+see when you hold the grating up to your 
+eye? If so, are the new lines in the ® 
+
+
+
+
+
+visible part of the spectrum (between 
+red and violet) or in the ultraviolet or 
+
+
+infrared? 
+
+
+The angle 6 through which light is 
+bent by a grating depends on the wave- 
+length A of the light and the distance d 
+between lines on the grating. The formula 
+is a simple one: 
+
+hij mee SLM? 9% 
+
+To find 6 you need to find, as shown 
+in Figure 3, tan 6 = x/z; x is the dis- 
+tance of the spectral line along the 
+meter stick from the source, and 2 is 
+the distance from the source to the grat- 
+
+
+ing. Use a magnifying glass to read x 
+
+
+oO IMAGE OF SOURCE 
+
+
+yee | 
+x Sissy —- | GRATING 
+| ee Pe o> ac | = 
+
+\ source ‘Pp, ae 
+
+I ff ——— 
+
+
+Fig. 3 
+
+
+
+
+
+b 
+: 
+| 
+{ 
+
+
+from your photograph, then calculate 
+tan @. Then look up the corresponding 
+
+
+values of 6 and sin #9 in tables. 
+
+
+To find d remember that the grating 
+Space is probably given as lines per 
+inch. You must convert this to the 
+distance between lines in meters. One 
+inch is 2.54 x 1072 meters, so if there 
+are 13,400 lines per inch, then d is 
+
+(26 540 eel Oeil o4ax LOT) = 
+1.89 x 107 meters. 
+
+
+Calculate the values of \ for the 
+various spectral lines you have measured. 
+
+
+Q4 How many of them are visible to the 
+
+
+eye? 
+
+
+Q5 What would you say is the shortest 
+
+
+wavelength to which your eye is sensitive? 
+
+
+Q6 What is the shortest wavelength that 
+you can measure on the photograph? 
+
+
+Compare your values for the wavelengths 
+with those given in the text (Unit 5, 
+Table 19.1 on page 69), or the more com- 
+plete list given for instance in the 
+Handbook of Chemistry and Physics. The 
+differences between your values and the 
+published ones should be less than the 
+experimental uncertainty of your measure- 
+
+
+ments. Are they? 
+
+
+This is not all that you can do with 
+the results of this experiment. 
+
+
+You could work out a value for the 
+Rydberg constant for hydrogen. (See 
+Unit 5, text page 69 for the formula 
+that defines R,-) 
+
+
+More interesting perhaps is to cal- 
+culate some of the energy levels for 
+the excited hydrogen atom. Use Planck's 
+constant (see Unit 5, Sec. 18.5 and 
+Experiment 42 on the photoelectric ef- 
+fect) to calculate the energy of photons 
+of various wavelengths, E = hf = hc/), 
+emitted when hydrogen atoms change from 
+
+
+one state to another. The energy of the 
+
+
+
+
+
+
+
+
+Experiments 
+
+
+emitted photon is the difference in 
+energy between the initial and final 
+
+
+states of the atom. 
+
+
+Make the assumption (which is correct) 
+that for all lines of the series you have 
+observed (Balmer series) the final energy 
+state is the same. The energies that 
+you have calculated represent the energy 
+of various excited states above this final 
+
+
+level. 
+
+
+Draw an energy level diagram something 
+like the one shown here (Fig. 4). Show 
+on it the energy of the photon emitted 
+in transition from each of the excited 
+
+
+states to the final state. 
+
+
+
+
+
+GROURD STHTE 
+FOR BGALMER 
+
+
+SPECT RUM | : 
+
+
+, 
+
+) 
+
+/ 
+
+| q 
+
+| | 
+
+| 
+
+| 
+/ | 43 
+
+/ | / 
+
+LL, | 
+
+E/ 
+
+’ 
+
+
+Fig. 4 
+Q7 How much energy does an excited 
+
+
+hydrogen atom lose when it emits red 
+light? 
+
+
+29 
+
+
+30 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Activities 
+
+
+
+
+
+| CESKOSLOVENSKO] 
+
+
+c 
+e 
+e 
+2 
+S 
+a 
+w 
+wv 
+2 
+
+
+EINSTEIN 
+
+
+2 
+
+; 
+3 
+2 
+= 
+| 
+3 
+= 
+<] 
+ic 
+- 
+is 
+3 
+= 
+c 
+
+
+ALBERT 
+CC i 1499S) 
+
+
+
+
+
+NIELS ROHRS ATOMTEORI 
+IDUSANGE3 3k = 
+
+
+jOCCCP 40) 
+
+
+[ton MS4TA *& 
+
+
+ACTIVITY Sclentists on stamps 
+
+
+
+
+
+As shown above, scientists are pic- shop and assemble a display for your 
+tured on the stamps of many countries, classroom. 
+often being honored by other than their See also "Scientists on Stamps," in 
+homeland. You may want to visit a stamp thettnite4a Student tandbook. 
+ACTIVITY Measuring a quantum effect: "jumps" between states. This is the 
+ionization 
+
+
+Franck-Hertz effect. 
+With an inexpensive thyratron 885 
+
+
+tube, you can demonstrate an effect that But if you keep increasing the energy, 
+is closely related to the famous Franck- you will finally get on one which is 
+Hertz effect. large enough to separate an electron en- 
+
+
+tirely from its atom—that is, enough to 
+
+
+peor ionize the atom. This energy is called 
+
+
+According to the Rutherford-Bohr model, the ionization energy. 
+
+
+an atom can absorb and emit energy only Now imagine a stream of electrons be- 
+in certain amounts. If an atom is ex- ing accelerated by an electric field 
+posed to larger quanta of energy, it will through a region of space filled with 
+at first be very finicky, accepting only argon atoms. This is the situation in 
+those quanta that correspond to permitted a thyratron 884 tube with its grid and 
+
+
+31 
+
+
+Activities 
+
+
+
+
+
+
+variable 
+Vo age 
+
+
+Cathode 
+Filament 
+
+
+— 634 
+
+
+Fig. 1 The thyratron tube 
+
+anode both connected to a source of var- 
+iable voltage, as shown schematically 
+
+in Fig. 1. As long as the energy is be- 
+low that needed for "jumps", the atoms 
+will not accept any energy. As you in- 
+crease the accelerating voltage, the 
+electrons become energetic enough to ex- 
+cite the atoms, as in the Franck-Hertz 
+effect. However, our equipment is not 
+sensitive enough to detect the result- 
+ing small energy absorptions. So no- 
+thing much seems to happen: the 
+electron current from cathode to anode 
+appears to increase quite linearly with 
+the voltage, as you would expect—until 
+the electrons get up to the ionization 
+energy of argon. This happens at the 
+ionization potential Vie which is re- 
+lated to the ionization energy Ej and 
+to the charge q, on the electron as 
+
+
+follows: E, a qeV; (1) 
+As soon as electrons begin to ionize argon 
+atoms, the current increases sharply. The 
+argon is now in a different state, called 
+an ionized state, in which it conducts 
+electric current much more easily than be- 
+fore; this sudden decrease in electrical 
+resistance makes the thyratron tube useful 
+as an "electronic switch" in such devices 
+as stroboscopes. A similar process chang- 
+
+
+32 
+
+
+es the air so that it can conduct light- 
+ning. As argon ions recapture electrons, 
+they emit photons of ultraviolet and of 
+visible violet light. This violet glow 
+is evidence that the argon is in an ex- 
+cited state. 
+
+
+For theoretical purposes, the important 
+point is that ionization takes place in 
+any gas at a particular energy that is 
+characteristic of that gas. This is an 
+easily observed evidence of one special 
+case of Bohr's postulated discrete energy 
+states. 
+
+
+Equipment 
+
+
+thyratron 884 tube 
+
+
+octal socket to hold the tube (not essen- 
+tial but convenient) 
+
+
+voltmeter (0-30 volts dc) 
+ammeter (0-100 milliamperes) 
+
+
+potentiometer (10,000 ohms, 2 watts or 
+larger) (OR variable transformer, 0-120 
+volts ac) 
+
+
+power supply, capable of delivering 50- 
+60 ma at 200 volts dc. 
+
+
+Connect the apparatus as shown in Fig. 2, 
+
+
+If you use a 
+
+
+
+
+
+
+O- 100 mA 
+
+
+‘ous 
+10,000 ohms 
+v) 
+0-30 V 
+
+
+ka 
+
+
+Fig. 2 Schematic diagram 
+
+
+
+
+
+
+
+
+
+
+
+| 
+
+
+variable transformer to run the power sup- 
+ply (instead of controlling its output with 
+a potentiometer), you will need a separate 
+6.3-volt supply for the filament of the 
+tube. 
+
+
+Procedure 
+
+
+With the potentiometer set for the low- 
+est available anode voltage, turn on the 
+power and wait a few seconds for the fila- 
+ment to heat. Now increase the voltage 
+by small steps. At each new voltage, call 
+out to your partner the voltmeter reading. 
+Pause only long enough to permit your part- 
+ner to read the ammeter and to note both 
+readings in your data table. Take data as 
+rapidly as accuracy permits: your poten- 
+tiometer will heat up quickly, especially 
+Lf Leygets  stoo, hot, to 
+
+
+touch, turn the power off and wait for it 
+
+
+at high currents. 
+
+
+to cool before beginning again. 
+
+
+Watch for the onset of the violet 
+glow. Note in your data table the voltage 
+at which you first observe the glow, and 
+then note what happens to it at higher 
+
+
+voltages. 
+
+
+Plot current versus voltage, and mark 
+the point on your graph where the glow 
+first appeared. From your graph, deter- 
+mine the first ionization potential of 
+argon. Compare your experimental value 
+
+
+with published values, such as the one in 
+the Handbook of Chemistry and Physics. 
+
+
+Use E; = qoVy to compute the 
+energy (in electron volts and in 
+joules) that an electron must have in 
+
+
+order to ionize and argon atom. 
+
+
+ACTIVITY Modeling atoms with magnets 
+
+
+Here is one easy way to demonstrate 
+some of the important differences between 
+the Thomson "pudding" atom model and the 
+
+
+Rutherford nuclear model. 
+
+
+Activities 
+
+
+Equipment 
+
+
+A dry ripple tank 
+
+
+tiny plastic beads to reduce friction on 
+the glass surface of the ripple tank 
+
+
+one large, flat, cylindrical magnet 
+about two inches in diameter (to repre- 
+sent an alpha particle) 
+
+
+five or six small flat disc magnets about 
+an inch in diameter (to represent the de- 
+flecting charges within the atom) 
+
+To show how alpha particles would be 
+expected to behave in collisions with a 
+Thomson atom, represent the spread-out 
+"pudding" of positive charge by a roughly 
+circular arrangement of the small magnets, 
+spaced four or five inches apart, under 
+
+
+the center of the tray, as shown in Fig. l. 
+
+
+lie a 
+
+The arrange- 
+ment of the 
+magnets for 
+a "Thomson 
+Atom", 
+
+
+
+
+
+Use tape or putty to fasten the magnets 
+Put the 
+
+
+large magnet (representing the alpha 
+
+
+to the underside of the glass. 
+
+
+particle) down on top of the glass so 
+that it is repelled by the small magnets. 
+Now fire (push) it from the edge of the 
+glass toward the "atom." As long as it 
+has enough momentum to reach the other 
+side, its deflection by the small magnets 
+under the tray will be quite small—never 
+
+
+never more than a few degrees. 
+
+
+For the Rutherford model, on the other 
+hand, gather all the small magnets into a 
+vertical stack under the center of the 
+tray, aS shown in Fig. 2. Turn the stack 
+
+
+(continued on page 36) 
+
+
+33 
+
+
+
+
+
+Le te 
+
+
+34 
+
+
+After each definition is a dash for each letter in the 
+word defined. Write each word on the appropriate 
+dashes and write each letter in the square with the 
+corresponding number in the diagram. When the 
+squares are filled, the diagram will give a quotation, 
+reading from left to right, from a well known scientist. 
+Black squares indicate the ends of words and if there is 
+no black square at the right side of the diagram, the 
+word continues on the next line. When all the words 
+have been supplied for the definitions, the first letter 
+of each word defined, reading from top to bottom 
+(definitions A to U), will spell the name of the scientist 
+
+
+~ and the topic of the quotation. If a word can be com- 
+
+
+pleted in the diagram without using the definitions, 
+
+
+ae ed 
+
+
+38 ied 
+
+oe oe 
+aan a 
+ae ae 
+a oe 
+
+aa @ 
+
+nals 
+bh ea 
+
+aioe oe] wa 
+
+
+aa | aa |i ca 
+baa 157 E|158B 
+
+
+CHEMISTRY VOL39 NO10 
+
+
+(oats 
+
+
+
+
+
+the letters may be transferred to the definitions by 
+using the number and letter of the square in which the 
+letter appears. For instance, if numbers 137P, 138R, 
+and 139H in the puzzle read A—D, the letter N 
+might be supplied for the missing letter to complete 
+the word AND. The letter N was in square number 
+138R. Therefore, going back to the definition num- 
+bered R, the letter N should be filled into the line 
+marked 138 in that definition. The complete quota- 
+tion for the crostic may be found in the Journal of 
+Chemical Education [39, p. 288, line 15 (1962)]. This 
+puzzle was contributed by Mary Ellen Schaff, University of 
+Wisconsin, Milwaukee, Wis. (Solution will appear next 
+month.) 
+
+
+(ed eG a 
+fae el Bed 
+baetiee| 
+
+
+es 
+(saws ce 
+
+
+93 L 
+
+
+i Mil ie 
+
+
+hea sa 
+
+
+Reprinted from Chemistry, November, 1966, 
+
+
+
+
+
+
+
+
+
+
+
+Activities 
+
+
+A. Scattering of light by molecules re- 
+Ul tLo pein arshitcrinawavelecie tin eWO WOLGS) la ii fey em ae 
+© 96 35 144 75 78 131 100 90 27 142 103 
+
+
+B. Marked by disturbance . . . . .§ — —- — — — — — 
+15851976" 130) 24. 819126 
+
+
+C. Polymerized tetrafluoroethylene . . . . . ——- —- —- — — — 
+D. Has subsided (two words) . . . . «© — — — — — — — — — 
+
+
+E. Opticalisomers . 2... — = —- > > —- > —— — —— — 
+14501519938 51,74. 18 92) 71157 43e119 44s 
+
+
+F. An acid important in protein synthe- 
+sis (two words)... © «©. —— 
+136 56 146 124 16135 49 7 79 85 10 64 20 
+
+
+Gy Object rationally reverenced. |... — —— 
+Mays pach GS) Slane fe) ally 
+
+
+H. Nobel Prize winner in chemistry, 
+1909 (last name first) . . . . — — pa ee ge ee 
+
+
+
+
+
+I. Elevated... ee 
+
+
+J. Lack of sympathy... . . — — — — — — — — 
+; 23 156 88 132 4 36 34 91 
+
+
+iS, AEA £5 5 4 4 = Se 
+
+
+
+
+
+eee EDO vOnal lyidistur bed semi ae ea 
+93 46 68 121 65 
+
+
+M. The order of marine mammalia containing whales . . ©. |. . — —- —- —- ——~ — —— 
+148 63 17 67 122 48 99 
+
+
+Ny WiegistliQtacdtid) ,, +. = —S === 
+ZOOL 2 N25 
+
+
+O. A plant which obtains nutrients from 
+avid (angeles! nee, GeRINIG CIN )) ne na SS SS SS 
+22 4 eee 34515 35ee See 8O 
+
+
+P. Branch of geometry (Leonhard Euler) . . . . 3 — — — — — — 
+
+
+Q. To pay asecond call . . . . . — — — — — — — 
+Dine? SS Osetia 52 
+
+
+R. Series of radioactive elements . . . . —- — — — — — — — 
+TASRTO9 2) 835138 8 8981520350 
+
+
+Simebnelobjective cascior theyan a 
+TTS Teds 4 
+
+
+T. Heedacall. ... .§ —— — — 
+53 84 50 59 
+
+
+(hk ium. 9... SSS ee 
+58 120 76 32 69 149 105 
+
+
+OCTOBER 1966 CHEMISTRY 39 
+
+
+Reprinted from October 1966 Chemistry. (Answer appears at end of activities for Chapter 20.) 
+
+
+35 
+
+
+
+
+
+Activities 
+
+
+
+
+
+36 
+
+
+Bigg. 
+magnets for a "Rutherford atom." 
+
+
+The arrangement of the 
+
+
+so that it repels “alpha particles" as be- 
+fore. This "nucleus of positive charge" 
+now has a much greater effect on the path 
+
+
+of the "alpha particle." 
+
+
+This magnet analogue is good enough 
+so that you can do some quantitative 
+work with the scattering relationships 
+that Rutherford investigated (see Sec. 
+19.3 and Film Loop 48, Rutherford Scat- 
+tering). Try varying the sizes of the 
+magnets. Devise a launcher so that you 
+can control the velocity of your pro- 
+jectile magnets and the distance of 
+
+
+closest approach. 
+
+
+Nuclevs 
+i aaa 
+a as a= ee 
+
+
+1. Hold the projectile velocity v 
+
+
+
+
+
+constant and vary the distance b (see 
+Fug. 3)> 
+
+
+¢ versus b. 
+
+
+then plot the scattering angle 
+
+
+2. Hold b constant and vary the 
+speed of the projectile, then plot 9 
+
+
+versus V. 
+
+
+3. Try scattering hard, nonmagnetized 
+discs off each other. Plot 9» versus b 
+and » versus v as before. Contrast the 
+two kinds of scattering-angle distribu- 
+
+
+tions. 
+
+
+ACTIVITY Cigar box atoms 
+
+
+Place two or three different objects, 
+such as a battery, a small block of wood, 
+a bar magnet or a ball bearing, ina 
+Seal the box, 
+
+
+one of your fellow students try to tell 
+
+
+cigar or shoebox. and have 
+you as much about the contents of your 
+"atom" as possible, without opening the 
+box. For example, sizes might be deter- 
+mined by tilting the box, relative masses 
+by balancing the box on a support, or 
+whether or not the "atom" is magnetic by 
+
+
+checking with a compass. 
+
+
+The object of all this is to get a 
+feeling for what you can or cannot infer 
+about the structure of an atom purely on 
+the basis of secondary evidence. It may 
+help you to write a report on your inves- 
+tigation in the form you may have used 
+for writing a proof in plane geometry, 
+i.e., the property of the atom in one 
+column and your reason for asserting that 
+the property is present in the other col- 
+"a compass is deflected 
+
+
+umn. Evidence: 
+
+
+when brought near. Conclusion: my atom 
+
+
+is magnetic." 
+
+
+ACTIVITY Another simulation of the 
+
+
+Rutherford atom 
+A hard rubber "potential-energy hill" 
+is available from Stark Electronics In- 
+struments, Ltd., Box 670, Ajax, Ontario, 
+Canada. When you roll steel balls onto 
+this hill, 
+
+
+what the same way as alpha particles are 
+
+
+they are deflected in some- 
+deflected away from a nucleus. The po- 
+tential-energy hill is very good for 
+
+quantitative work such as was suggested 
+
+
+for the magnet analogue above. 
+
+
+
+
+
+
+
+
+
+
+
+FILM LOOP 47 Thomson Model of the Atom 
+
+
+%) Before the development of the Bohr 
+
+theory, a popular model for atomic struc- 
+
+ture was the "raisin pudding" model of J. 
+
+J. Thomson. According to this model, the 
+atom was supposed to be a uniform sphere 
+of positive charge in which were embedded 
+small negative "corpuscles" (electrons). 
+Under certain conditions the electrons 
+could be detached and observed separately, 
+as in Thomson's historic experiment to 
+
+
+measure the charge-mass ratio. 
+
+
+The Thomson model did not satisfactori- 
+ly explain the stability of the electrons 
+
+
+and especially their arrangement in "rings,' 
+
+
+as suggested by the periodic table of the 
+elements. In 1904 Thomson performed ex- 
+periments which to him showed the possi- 
+bility of a ring structure within the broad 
+outline of the raisin-pudding model. Thom- 
+son also made mathematical calculations of 
+the various arrangements of electrons in 
+
+
+his model. 
+
+
+» In the Thomson model of the atom, the 
+cloud of positive charge created an elec- 
+tric field directed along radii, strongest 
+at the surface of the sphere of charge and 
+decreasing to zero at the center. You are 
+familiar with a gravitational example of 
+such a field. The earth's downward gravi- 
+tational field is strongest at the surface 
+and it decreases uniformly toward the cen- 
+
+
+ter of the earth. 
+
+
+For his model-of-a-model Thomson used 
+still another type of field—a magnetic 
+field caused by a strong electromagnet 
+above a tub of water. Here, too, the 
+field is radial as shown by the pattern 
+of iron filings sprinkled on the glass 
+bottom of the tub. 
+
+
+magnetized steel needles to represent the 
+
+
+Thomson used vertical 
+
+
+electrons; these were stuck through corks 
+and floated on the surface of the water. 
+The needles were oriented with like poles 
+
+
+pointing upward; their mutual repulsion 
+
+
+
+
+
+Film Loops 
+
+
+
+
+
+Fig. 1 
+
+
+tended to cause the magnets to spread 
+apart. The outward repulsion was counter- 
+acted by the radial magnetic field direc- 
+When the 
+
+
+floating magnets were placed in the tub 
+
+
+ted inward toward the center. 
+
+
+of water, they came to equilibrium con- 
+figurations under the combined action of 
+all the forces. Thomson saw in this ex- 
+periment a partial verification of his cal- 
+culation of how electrons (raisins) might 
+come to equilibrium in the raisin-pudding 
+
+
+model of the atom. 
+
+
+In the film the floating magnets are 
+3.8 cm long, supported by ping pong balls. 
+Equilibrium configurations are shown for 
+various numbers of balls, from 1 to 12. 
+Perhaps you can interpret the patterns in 
+terms of rings, as did Thomson (Fig. 2 on 
+
+
+the next page). 
+
+
+Thomson was unable to make an exact corre- 
+lation with the facts of chemistry. For 
+example, he knew that the eleventh elec- 
+tron is easily removed (corresponding to 
+sodium, the eleventh atom of the periodic 
+table), yet his floating magnet model 
+failed to show this. Instead, the pat- 
+terns for 10, 11 and 12 floating magnets 
+
+
+are rather similar. 
+
+Fig. 2 
+
+
+Thomson's work with this apparatus il- 
+lustrates how physical theories may be 
+tested with the aid of analogies. He was 
+disappointed by the failure of the model 
+to account for the details of atomic struc- 
+ture. A few years later the Rutherford 
+model of a nuclear atom made the Thomson 
+model obsolete, but in its day the Thomson 
+model received some support from experi- 
+
+
+ments such as those shown in the film. 
+
+
+FILM LOOP 48 Rutherford Scattering 
+
+
+A computer program was used to make 
+this film, which shows the scattering 
+of alpha particles by a nucleus in a 
+solid-like gold foil (Fig. 1). 
+
+
+that particles which are aimed to pass 
+
+
+Notice 
+
+
+close to the nucleus are scattered 
+through large angles. Other particles 
+
+
+which are not aimed so close to the nu-
+
+
+
+cleus are deflected thrcugh smaller 
+angles. The interaction between the 
+
+alpha particle and the nucleus is the 
+
+electrostatic force of repulsion between 
+two positively charged bodies. Accord- 
+ing to Coulomb's law, this force varies 
+inversely as the square of the distance 
+between the alpha particle and the nu- 
+
+
+cleus. 
+
+
+The program used in the computer was 
+a slight modification of that used in 
+the film loop "Program Orbit." The only 
+difference is that the operator selected 
+an inverse-square law of repulsion in- 
+stead of a law of attraction such as 
+that of gravity. The output of the com- 
+puter was displayed on a cathode-ray tube. 
+Points are shown at equal time intervals. 
+Careful measurements would show that the 
+law of areas is valid for the motion of 
+the alpha particles. Why would you ex- 
+
+
+pect this to be true? 
+
+
+The scattering is shown only for parti- 
+cles which are in the near vicinity of a 
+nucleus. Drawn to scale, the nearest ad- 
+jacent nucleus would be about 500 feet 
+above the nucleus shown (if the image 
+from your projector is 1 foot high). Any 
+
+
+alpha particles moving across this large 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+area between nuclei would move toward the 
+right with no observable deflection. 
+
+
+We use the computer to tell us what 
+the result will be if we shoot particles 
+at a nucleus. Remember that the computer 
+program doesn't "know" about Rutherford 
+scattering. The operator has "built in" 
+only Newton's laws of motion and the phys- 
+ical force law (inverse-square repulsive 
+force). It would be easy enough to change 
+the program to test the effect of some 
+other force law, for example, F = K/r2°! 
+instead of F = K/r?. 
+
+
+be computed and displayed on the CRT; the 
+
+
+The scattering would 
+
+
+angle of each scattering deflection would 
+
+
+depend cn the distance of closest approach, 
+
+
+
+
+
+Film Loops 
+
+
+but differently than for the inverse- 
+
+
+square force law. 
+
+
+Working backward from the observed scat- 
+tering data, Rutherford deduced that the 
+inverse-square Coulomb force law is cor- 
+rect for all motions taking place at dis- 
+
+
+—14 m from the 
+
+
+tances greater than about 10 
+scattering center, but he found deviations 
+from Coulomb's law for closer distances. 
+
+In this way a new type of force was dis- 
+
+covered, called nuclear force. Ruther- 
+ford's scattering experiment showed the 
+size of the nucleus to be about 107!" nm, 
+which is about 1/10,000 the distance be- 
+
+
+tween the nuclei in solid bodies. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Chapter 20 Some Ideas From Modern Physical Theories 
+
+
+ACTIVITY Standing waves on a 
+
+
+band-saw blade 
+Standing waves on a ring can be shown 
+
+by shaking a band-saw blade with your hand. 
+To protect your hand wrap tape around the 
+blade for about six inches. Then gently 
+shake the blade up and down until you 
+have a feeling for the lowest vibration 
+rate which produces reinforcement of the 
+Then double the rate of shak- 
+
+
+ing, and continue increasing the rate of 
+
+
+vibration. 
+
+
+shaking, watching for standing waves at 
+all times. You should be able to main- 
+
+
+tain five or six nodes. 
+
+
+ACTIVITY Turntable oscillator patterns 
+
+
+resembling de Broglie waves 
+
+
+If you set up two turntable oscilla- 
+tors and a Variac as shown in Fig. 1, you 
+can draw pictures like those shown in 
+Fig. 20.4 of your Unit 5 text resembling 
+de Broglie waves. 
+
+
+
+
+
+Place a paper disc on the turntable. 
+Set both turntables to their lowest speeds. 
+Before starting to draw, check the back- 
+
+
+and-forth motion of the second turntable 
+
+to be sure the pen stays on the paper. 
+
+Turn both turntables on and use the Variac 
+as a fine speed control on the second turn- 
+table. 
+
+
+low exactly the same path each time the 
+
+
+Your goal is to get the pen to fol- 
+paper disc goes around. Try higher fre- 
+quencies of back-and-forth motion to get 
+
+
+more wavelengths around the circle. For 
+
+
+Activities 
+
+
+each stationary pattern that you get, 
+check whether the back-and-forth frequency 
+is an integral multiple of the circular 
+
+
+frequency. 
+
+
+ACTIVITY Standing waves in a wire ring 
+
+
+With the apparatus described below, 
+you can set up circular standing waves 
+that resemble vaguely the de Broglie 
+
+
+wave models of certain electron orbits. 
+Equipment 
+
+
+wire ring 
+Project Physics close up power supply 
+(with transistor switch) 
+strong permanent magnet 
+
+Set the oscillator RANGE switch to 5-50 
+cyc/sec. 
+lator output to the TRANSISTOR SWITCH 
+
+
+Connect the square-wave oscil- 
+
+
+input of the power supply. 
+
+The output current of the oscillator is 
+much too small to set up visible standing 
+waves in the wire ring. However, the 
+oscillator current can operate the trans- 
+istor switch to control a much larger 
+
+
+current from the power supply. 
+
+
+
+
+
+Activities 
+
+
+The wire ring must be made of copper 
+or any non-magnetic metal. Insulated cop- 
+per magnet wire works well: twist the ends 
+together and support the ring at the 
+twisted portion by means of a binding 
+post, Fahnestock clip, or ring-stand 
+clamp. Remove a little insulation from 
+
+
+each end for electrical connections. 
+
+
+A ring 4 to 6 inches in diameter made 
+of 22-gauge enameled copper wire has its 
+lowest rate of vibration at about 20 cy- 
+cles/sec. Stiffer wire or a smaller 
+ring will have higher characteristic vi- 
+
+
+brations which are more difficult to see. 
+
+
+Position the ring as shown, with a 
+section of the wire passing between the 
+poles of the magnet. When the signal 
+current passes through the ring, the cur- 
+rent interacts with the magnetic field, 
+producing alternating forces which cause 
+the wire to vibrate. In Fig. 1, the mag- 
+netic field is vertical, and the vibra- 
+tions are in the plane of the ring. You 
+can turn the magnet so that the vibrations 
+
+
+are perpendicular to the ring. 
+
+
+Because the ring is clamped at one 
+point, it can support standing waves that 
+have any integral number of half wave- 
+lengths. In this respect they are differ- 
+ent from waves on a free wire ring (which 
+is more appropriate for comparison to an 
+atom) which are restricted to integral 
+
+
+numbers of whole wavelengths. 
+
+
+When you are looking for a certain mode 
+of vibration, position the magnet between 
+expected nodes. The first stationary state 
+that the ring can support in its plane is 
+the first harmonic, having two nodes: the 
+one at the point of support and the other 
+opposite it. In the second mode, three 
+nodes are spaced evenly around the loop, 
+and the best position for the magnet is 
+directly opposite the support, as shown in 
+
+
+Eigse 
+
+
+42 
+
+
+You can demonstrate the various modes 
+of vibration to the class by setting up 
+the magnet, ring and support on the plat- 
+form of an overhead projector. Be careful 
+not to break the glass with the magnet, 
+especially if the frame of the projector 
+happens to be made of a magnetic material. 
+
+
+Project Physics film loop 47, Vibra- 
+tions of a Wire, also shows this. 
+
+
+
+
+
+
