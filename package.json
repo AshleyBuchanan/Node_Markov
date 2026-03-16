@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "axios": "^1.13.6",
     "fs": "^0.0.1-security",
     "open": "^11.0.0"
   }

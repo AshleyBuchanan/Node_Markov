@@ -1,6 +1,7 @@
 /** Textual markov chain generator */
 const fs = require('fs');
-const open = (...args) => import('open').then(mod => mod.default(...args));         // the open package is ESM-only... I could've just converted to ESM but I'd already struggled to find this.:D
+const axios = require('axios');
+//const open = (...args) => import('open').then(mod => mod.default(...args));         // the open package is ESM-only... I could've just converted to ESM but I'd already struggled to find this.:D
 
 class MarkovMachine {
 
@@ -71,6 +72,36 @@ class MarkovMachine {
     };
 };
 
+function cat(arg) {
+    try {
+        const data = fs.readFileSync(arg, 'utf8');
+        return data;
+
+    } catch (err) {
+        console.error(`Error reading ${arg}:`, err.message);
+        process.exit(1);
+    };
+};
+
+async function webCat(arg) {
+    let payload;
+ 
+    try {
+        payload = await axios.get(arg, {
+            //header was needed to access some sites like wikipedia
+            headers: {
+                'User-Agent': 'step3-cat/1.0 (learning project; contact: me@gmail.com)'
+            }
+        });
+
+    } catch (err) {
+        console.error(`Error fetching ${arg}:`, err.code==='ENOTFOUND' ? '404' : err.response.status);
+        process.exit(1);
+    };
+
+    return payload.data;
+};
+
 async function main() {
     const args = process.argv.slice(2);
     console.log(args, args.length);
@@ -79,23 +110,22 @@ async function main() {
     if (args.length === 0) {
         console.error('Please provide a file path or web address.');
         console.log('\nExample Usage:');
-        console.log(' node markov.js <source file> <"source file"> <etc>\n\n');
+        console.log(' node markov.js <source_file> <"source file"> <etc>\n\n');
         process.exit(1);
     };
 
     //retrieve text from file(s)
-    const rawText = [];
-    args.forEach(arg => {
-        try {
-            const data = fs.readFileSync(arg, 'utf8');
-            rawText.push(data);
+    const rawText = await Promise.all(
+        args.map(async arg => {
+            if (arg.startsWith("https://") || arg.startsWith("http://")) {
+                return await webCat(arg);
+            } else {
+                return cat(arg);
+            };
+        })
+    );
 
-        } catch (err) {
-
-        }
-
-        let mm = new MarkovMachine(...rawText);
-    });
+    let mm = new MarkovMachine(rawText.join(" "));
 };
 
 main();
