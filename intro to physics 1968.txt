@@ -1,134 +1,4 @@
 
-An Introduction to Physics 
-
-
-
-
-
-Project Physics Handbook 
-
-
-Models of the Atom 
-
-
-
-
-
-
-
-
-
-
-
-Carbon 
-
-
-Lime 
-
-
-
-
-
-
-This handbook is the authorized interim version of one of 
-the many instructional materials being developed by 
-Harvard Project Physics, including text units, laboratory 
-experiments, and teacher guides. Its development has 
-profited from the help of many of the colleagues listed 
-at the front of the text units. 
-
-
-Copyright © 1968, Project Physics Incorporated, 
-
-
-Copyright is claimed until June 1, 1969. After June 1, 
-1969, all portions of this work not identified herein as 
-the subject of previous copyright shall be in the public 
-domain. The authorized interim version of the Harvard 
-Project Physics course is being distributed at cost by 
-Holt, Rinehart and Winston, Inc. by arrangement with 
-Project Physics Incorporated, a non-profit educational 
-organization. 
-
-
-All persons making use of any part of these materials are 
-requested to acknowledge the source and the financial 
-support given to Project Physics by the agencies named 
-below, and to include a statement that the publication 
-of such material is not necessarily endorsed by Harvard 
-Project Physics or any of the authors of this work. 
-
-
-The work of Harvard Project Physics has been financially 
-supported by the Carnegie Corporation of New York, the 
-Ford Foundation, the National Science Foundation, the 
-Alfred P. Sloan Foundation, the United States Office of 
-Education and Harvard University. 
-
-
-Consult the Project Physics text for a partial list of the 
-current and recent staff, consultants and advisory com- 
-mittee. 
-
-
-03-—073540-8 
-
-
-90123 69 9876543 
-
-
-Gx wpnis 
-UNITASITATIS 
-HARERTAEASIS 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Project Physics Handbook 
-
-
-An Introduction to Physics b Models of the Atom 
-
-
-\ 
-eo 
-
-
-( 
-
-
-@© 
-
-
-a 
-
-
-™~ 
-— 
-
-
-
-
-
-Authorized Interim Version # 1968-69 
-
-
-Distributed by Holt, Rinehart and Winston, Inc. NewYork Toronto 
-
-
-
-
-
 
 
 
@@ -261,30 +131,18 @@ Experiments
 
 
 Electric current is provided by a 
-power supply that converts PpLO<volpsaliter- 
-nating current into low voltage direct 
+power supply that converts alternating 
+current into low voltage direct 
 current. The current is controlled by a 
 variable transformer (or a rheostat) and 
 measured by an ammeter in series with 
 
 
-the electrolytic cell as shown in Fig. l 
+the electrolytic cell as shown. 
 
 
 
 
-
-OFA ica ote » 
-— 
-. / 
-/} 
-wih 
-eke 
-ete Ns 
-t % =, % 
-\ Ni a 
-s | 
-Fig. 2 
 
 
 As long as there is current in the 
@@ -305,7 +163,7 @@ time the current flows, you can compute
 
 
 
-Experiments 
+
 
 
 the electric charge, q = I x t, that 
@@ -325,7 +183,7 @@ atom from solution, you can calculate
 the mass of a single copper atom. 
 
 
-Procedure 
+
 
 Either an "equal-arm" or a "triple- 
 beam" balance can be used for this ex- 
@@ -335,10 +193,7 @@ figure. The cathode cylinder must be
 supported far enough above the bottom 
 of the beaker so that the balance arm 
 can move up and down freely when the 
-cell is full of the copper-sulfate solu- 
-
-
-tion. 
+cell is full of the copper-sulfate solution. 
 
 
 Next connect the circuit as illus- 

@@ -6,12 +6,13 @@ class MarkovMachine {
     constructor(text, numWords) {
         // normalize whitespace and strip most punctuation that breaks the chain.
         let cleaned = text
-            .replace(/[()"“”]/g, "")        // remove parentheses and quotes
-            .replace(/\s[-—–]+\s/g, " ")    // remove standalone spaced dashes like " - "
-            .replace(/--|—|–/g, " ")        // convert double/em/en dashes to spaces
-            .replace(/[;:,]/g, " ")         // remove semicolons/colons/commas
-            .replace(/\s+/g, " ")           // collapse weird spacing
-            .replace(/\^/g, "")             // remove these " ^ "
+            .replace(/(\w+)-\s+(\w+)/g, "$1$2") // join split words " by-passed "
+            .replace(/[()"“”]/g, "")            // remove parentheses and quotes
+            .replace(/\s[-—–]+\s/g, " ")        // remove standalone spaced dashes like " - "
+            .replace(/--|—|–/g, " ")            // convert double/em/en dashes to spaces
+            .replace(/[;:,]/g, " ")             // remove semicolons/colons/commas
+            .replace(/\s+/g, " ")               // collapse weird spacing
+            .replace(/\^/g, "")                 // remove these " ^ "
             .trim();
 
         let words = cleaned.split(" ");        
@@ -45,7 +46,7 @@ class MarkovMachine {
         let word = keys[Math.floor(Math.random() * keys.length)];
         let output = [];
 
-        while (output.length < numWords) {
+        while (output.length < numWords - 3) {
 
             switch (word) {
                 case null:
@@ -56,8 +57,6 @@ class MarkovMachine {
                 default:
                     let w = word.split(" ");
                     output.push(w[0]);
-                    //output.push(w[1]);
-                    //console.log(output)
                     let nextWords = this.chains.get(word);
                     word = `${word.split(" ")[1]} ${word.split(" ")[2]} ${nextWords[Math.max(Math.floor(Math.random() * nextWords.length))]}`;
             };
